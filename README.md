@@ -11,3 +11,6 @@ Este proyecto es una API REST desarrollada con **Spring Boot 3.2.5** y **Java 21
 ## 🐳 Base de Datos (Docker)
 ```bash
 docker pull doctorkirk/oracle-19c
+```
+* **Script Base de datps:** Script.sql
+
